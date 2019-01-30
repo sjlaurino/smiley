@@ -1,0 +1,10 @@
+.column{
+  outline-color: white;
+  height: 100px;
+  width:300px;
+  outline-style: solid;
+}
+
+body{
+  background-color: black;
+}
